@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.be66dc65.css",
-    "main.js": "/static/js/main.975048d4.js",
+    "main.css": "/static/css/main.6d371543.css",
+    "main.js": "/static/js/main.2ff1cfdf.js",
     "static/media/forest.mov": "/static/media/forest.cb02fcabfd1cf56ccba0.mov",
-    "static/media/treehand.png": "/static/media/treehand.c6bfa0409500d3b95485.png",
+    "static/media/tree.gif": "/static/media/tree.d098c051a69326b04773.gif",
     "static/media/8.jpg": "/static/media/8.62c33e27b40506197757.jpg",
+    "static/media/QR.jpeg": "/static/media/QR.30624a6d1045137ea700.jpeg",
     "static/media/roboto-all-400-normal.woff": "/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
     "static/media/icon.png": "/static/media/icon.b9b26650d86e278d690b.png",
     "static/media/roboto-latin-400-normal.woff2": "/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -15,11 +16,11 @@
     "static/media/roboto-vietnamese-400-normal.woff2": "/static/media/roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2",
     "static/media/roboto-greek-ext-400-normal.woff2": "/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
     "index.html": "/index.html",
-    "main.be66dc65.css.map": "/static/css/main.be66dc65.css.map",
-    "main.975048d4.js.map": "/static/js/main.975048d4.js.map"
+    "main.6d371543.css.map": "/static/css/main.6d371543.css.map",
+    "main.2ff1cfdf.js.map": "/static/js/main.2ff1cfdf.js.map"
   },
   "entrypoints": [
-    "static/css/main.be66dc65.css",
-    "static/js/main.975048d4.js"
+    "static/css/main.6d371543.css",
+    "static/js/main.2ff1cfdf.js"
   ]
 }
